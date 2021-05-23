@@ -8,5 +8,5 @@ Step 5: You must add your own API key in the controller/image.js file to connect
 You can grab Clarifai API key <a href="https://www.clarifai.com/">here</a>
 
 
-Enter the details for your own databse in server.js<br><br>
+Enter the details for your own databse in server.js<br>
 Make sure you use postgreSQL instead of mySQL for this code base.
